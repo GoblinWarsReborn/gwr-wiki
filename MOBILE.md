@@ -10,8 +10,9 @@
 - **Menu Inferior**:
   1. Arena
   2. Inventário
-  3. Mina
-  4. Meu Time
+  3. Craft
+  4. Mina
+  5. Meu Time
 
 ---
 
@@ -93,7 +94,49 @@ Ao clicar no escudo:
 
 ---
 
-## 6. Mina
+## 6. Craft
+
+![Craft - Categorias](images/12-craft.png)
+
+### Lista de Categorias
+- **Grade de Craftings**: Lista de todas as categorias de crafting em 3 colunas
+  - Exemplos: Espadas, Escudos, Armaduras de Peito, etc.
+- **Navegação**: Botão "Voltar"
+
+### Tipos de Craft
+
+![Craft - Tipos](images/13-craft-tipos.png)
+
+Ao selecionar uma categoria:
+- Exibe lista dos crafts disponíveis dentro da categoria
+  - Exemplo categoria Espadas: Espada de madeira, Espada de ferro, Espada de aço, etc.
+- **Itens Indisponíveis**: Aparecem em cinza
+
+### Tela de Crafting
+
+![Crafting](images/14-crafting.png)
+
+Ao selecionar um crafting específico:
+
+**Informações do Item**:
+- Nome do item que será craftado (ex: Espada de Ferro)
+- Descrição resumida do item
+
+**Seleção e Tempo**:
+- Espaço para selecionar o goblin que irá craftar
+- Tempo gasto em horas e minutos para o crafting
+
+**Materiais Necessários**:
+- Lista dos materiais que serão usados em 4 colunas com quantidades
+- Mesmo modelo visual do inventário
+
+**Botões**:
+- "Craft" - Iniciar o crafting
+- "Voltar"
+
+---
+
+## 7. Mina
 
 ![Mina](images/07-mina.png)
 
@@ -106,7 +149,7 @@ Ao clicar no escudo:
 
 ---
 
-## 7. Meu Time
+## 8. Meu Time
 
 ![Meu Time](images/08-time.png)
 
@@ -128,7 +171,7 @@ Duas abas principais: "Meu Time" e "Meus Goblins"
 
 ---
 
-## 8. Tela do Goblin
+## 9. Tela do Goblin
 
 ![Detalhes do Goblin](images/10-goblin.png)
 
