@@ -45,4 +45,4 @@ Order in which this is performed does not matter.
 
 > But it will still be possible to buy boxes, breed, merge, recharge goblins with the balance in your account. 🔄
 >
-> <img src="https://3562537674-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBmIkJ8HHc1Q2UABCQp6G%2Fuploads%2FuGqA3dMlNZhhSMLQJz49%2Fgoblinnnnnnnnn.jpg?alt=media&#x26;token=0faa1ad5-acf1-41ef-a6e0-621adf8ddce1" alt="" data-size="original">
+> <img src="images/play-to-earn.jpg" alt="" data-size="original">

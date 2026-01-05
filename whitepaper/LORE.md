@@ -4,7 +4,7 @@
 
 🪄 *You'll take place as one of the wizard warlords trying to conquer the land of Mudhora, with black magic summoned armies of minions on their path of mutual destruction.*
 
-<figure><img src="https://3562537674-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBmIkJ8HHc1Q2UABCQp6G%2Fuploads%2FMkfjyjSuHxhnI9G5R88j%2FDesign%20sem%20nome.jpg?alt=media&#x26;token=937d48b8-a854-40d9-8670-06d8d5f7d62b" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/lore.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 

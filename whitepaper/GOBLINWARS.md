@@ -1,6 +1,6 @@
 # Goblin Wars
 
-<figure><img src="https://3562537674-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBmIkJ8HHc1Q2UABCQp6G%2Fuploads%2FEuAic8wrhXlDoSM7IOFI%2Fimage.png?alt=media&#x26;token=a207428e-10ca-432e-9315-931d1660dc52" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/index.png" alt=""><figcaption></figcaption></figure>
 
 ## 🐲 Goblin Wars
 
