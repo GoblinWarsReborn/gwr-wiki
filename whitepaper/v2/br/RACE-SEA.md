@@ -1,0 +1,11 @@
+# Mar
+
+<figure><img src="images/race-sea.png" alt=""><figcaption><p>Senhores dos mares, os piratas</p></figcaption></figure>
+
+### Goblin dos Mares
+
+Goblin dos Mares são criaturas anfíbias, aventureiros e verdadeiros piratas, com pele azul, cabelo verde e olhos vermelhos de peixe. 🧜‍♂️🏴‍☠️🔵🟢🔴
+
+Temperamentais, eles têm a força necessária para missões que exigem esse atributo. 💢💪⚔️
+
+Eles são carismáticos e ligados à magia, mas não muito ágeis e inteligentes. ✨😄🧙‍♂️🚫🤓
