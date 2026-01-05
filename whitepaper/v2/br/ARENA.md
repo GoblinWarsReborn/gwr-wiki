@@ -6,7 +6,7 @@ O **Modo Arena** é onde você pode testar suas habilidades contra outros jogado
 
 ***
 
-### 🎯 Como Funciona
+### 🎯 Como Funciona.
 
 * ⚔️ Batalhas **PvP automáticas** com sistema de **matchmaking equilibrado**
 * 🏆 Suba no **ranking** e conquiste **recompensas exclusivas**
