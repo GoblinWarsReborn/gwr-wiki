@@ -1,6 +1,6 @@
-# Processos da Empresa
+# Processos da Cooperativa
 
-## 1. Estrutura da Empresa
+## 1. Estrutura da Cooperativa
 
 ### Organograma Hierárquico
 
@@ -27,22 +27,27 @@
 
 ### Estrutura de Tokens
 
-O modelo de remuneração será baseado em **Wrapper Tokens (WT)** e **Stock Options** dos tokens do projeto.
+O modelo de remuneração será baseado em **Stock Points Ecosystem (SPE)** e **Stock Options** dos tokens do projeto.
 
-#### Wrapper Tokens (WT)
-- Os **Wrapper Tokens (WT)** são um empacotado de tokens do projeto, funcionando como vale-token, cotas ou ações
-- A porcentagem de tokens representa a quantidade de cotas do projeto
+#### Stock Points Ecosystem (SPE)
+- O **Stock Points Ecosystem (SPE)** iniciará como um sistema de pontos de recompensa
+- Voluntários, jogadores e quaisquer parceiros receberão SPEs que, no futuro, poderão ser trocados por:
+  - Stablecoins como **USDT/USDC**
+  - Criptomoedas como **ETH**, **BNB** ou **SOL** (dependendo do projeto em questão)
+  - Um **NFT Stock Point exclusivo**
+- Esse NFT garantirá um sistema de **auto-staking** diretamente na carteira do holder, proporcionando **renda passiva** baseada na lucratividade do projeto
+- A porcentagem de SPE representa a quantidade de cotas do projeto
 - Poderão ser trocados no site sempre que existir saldo disponível
-- WT e Stock Options poderão ser comprados no site sempre que disponível
+- SPE e Stock Options poderão ser comprados no site sempre que disponível
 
 #### Financiamento do Projeto
-- A equipe de vendas irá trabalhar para vender os WT e custear o projeto
-- A quantidade de tokens reservados para vendas é limitada
+- A equipe de vendas irá trabalhar para vender os SPE e custear o projeto
+- A quantidade de pontos reservados para vendas é limitada
 - Parte do retorno das vendas ficará disponível para os voluntários
 
 #### Conversão e Liquidez
-- Os voluntários poderão trocar seus WT por **USDT** (Dólar digital)
-- A remuneração (em WT) será **semanal**
+- Os voluntários poderão trocar seus SPE por **USDT** (Dólar digital) ou outras criptomoedas
+- A remuneração (em SPE) será **semanal**
 
 #### Bonificações
 - Bonificações serão pagas em **Stock Options** dos Tokens de acordo com metas atingidas
@@ -52,7 +57,7 @@ O modelo de remuneração será baseado em **Wrapper Tokens (WT)** e **Stock Opt
 
 #### Modelo de Mercado
 - O modelo final de funcionamento (mercado cripto ou mercado fiat) será definido através de estudo e condições do mercado na época do lançamento do jogo
-- Por isso está sendo usado um wrapper (empacotado) para flexibilidade
+- Por isso está sendo usado um sistema de pontos para flexibilidade
 
 ---
 
@@ -66,6 +71,15 @@ O modelo de remuneração será baseado em **Wrapper Tokens (WT)** e **Stock Opt
 
 1. **Termo de Voluntariado**: Todos os voluntários deverão assinar virtualmente um termo de voluntariado
 2. **Onboarding**: Após acordo do voluntariado, será feito um processo de onboarding
+   - **Informações a serem coletadas**:
+     - Nome completo
+     - E-mail pessoal
+     - CPF
+     - Telefone
+     - Endereço completo
+     - CEP
+     - Usuário no GitHub
+     - Nome de usuário preferido (ex: seunome@goblinwars.net)
 3. **Acessos**: Serão criadas contas no Teams e e-mail para os voluntários, com liberação de acesso aos repositórios devidos
 
 ### Avaliação e Bonificações
@@ -83,4 +97,4 @@ O modelo de remuneração será baseado em **Wrapper Tokens (WT)** e **Stock Opt
 
 ### Política de Saída
 - A saída do voluntário **retira o direito a todas as bonificações**
-- O voluntário **mantém os direitos aos WT** já adquiridos
+- O voluntário **mantém os direitos aos SPE** já adquiridos
