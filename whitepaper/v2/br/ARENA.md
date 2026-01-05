@@ -48,7 +48,7 @@ Vencer na Arena concede:
 
 ***
 
-### ⚠️ Riscos e Cuidados
+### ⚠️ Riscos e Cuidados.
 
 * 💔 **Dano recebido** é maior para o perdedor
 * ⏳ **Tempo de recuperação** mais longo que em missões
