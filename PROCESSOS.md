@@ -42,7 +42,7 @@ O modelo de remuneração será baseado em **Wrapper Tokens (WT)** e **Stock Opt
 
 #### Conversão e Liquidez
 - Os voluntários poderão trocar seus WT por **USDT** (Dólar digital)
-- A remuneração será **semanal**
+- A remuneração (em WT) será **semanal**
 
 #### Bonificações
 - Bonificações serão pagas em **Stock Options** dos Tokens de acordo com metas atingidas
