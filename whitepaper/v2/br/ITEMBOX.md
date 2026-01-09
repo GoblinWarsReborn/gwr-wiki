@@ -73,3 +73,7 @@ Essas caixas só serão criadas pelos jogadores usando o **sistema de criação*
   * 🟡 100% lendário
 * 🎲 Um equipamento aleatório:
   * 🟤 100% épico
+
+---
+
+[← Anterior: Gobox](GOBOX.md) | [📚 Índice](README.md) | [Próximo: Fusão →](FUSION.md)

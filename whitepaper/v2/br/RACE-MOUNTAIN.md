@@ -9,3 +9,7 @@ Goblins da Montanha são criaturas avermelhadas com olhos raivosos e usam muita 
 Como são montanheses, eles desenvolveram habilidades de sobrevivência como resistência. 🖻💪🛡️
 
 Devido à robustez de sua pele, eles são fortes e vigorosos. Apesar de sua natureza bruta, são pouco inteligentes e carismáticos. 🧱🔥😅✨
+
+---
+
+[← Anterior: Caverna](RACE-CAVE.md) | [📚 Índice](README.md) | [Próximo: Sombrio →](RACE-DARK.md)

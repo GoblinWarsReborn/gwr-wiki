@@ -25,3 +25,7 @@
 
 💎 *Em Goblin Wars, seus subordinados são muito mais valiosos.*\
 👌 *Eles são NFTs únicos, que podem ser negociados na Ronin NetWork*
+
+---
+
+[📚 Índice](README.md) | [Próximo: Lore →](LORE.md)

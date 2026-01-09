@@ -9,3 +9,7 @@ Goblins do deserto são nômades avermelhados que carregam o traço reptiliano. 
 Eles não têm muita força física e isso os torna muito ágeis. 🏃‍♂️💨 Eles têm sentidos aguçados mas são tímidos. 👀🤫
 
 Originais têm pele avermelhada, olhos amarelos semelhantes a cobras e cabelo laranja. 🟥👁️🟧
+
+---
+
+[← Anterior: Floresta](RACE-FOREST.md) | [📚 Índice](README.md) | [Próximo: Caverna →](RACE-CAVE.md)

@@ -28,6 +28,10 @@ Nos **modos de combate**, a raridade **não influenciará o combate em si**, ape
 
 ***
 
+---
+
+[← Anterior: Partes do Corpo](BODY-PARTS.md) | [📚 Índice](README.md) | [Próximo: Mineração & NFT →](MINING-NFT.md)
+
 #### 🎁 Aleatoriedade do GOBOX
 
 No **GOBOX**, a aleatoriedade varia de acordo com a **raridade da própria caixa**. 📦✨

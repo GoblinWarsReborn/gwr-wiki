@@ -36,3 +36,7 @@
   * 🟣 Raro: 71,13%
   * 🟤 Épico: 24,25%
   * 🟡 Lendário: 4,42%
+
+---
+
+[← Anterior: Reprodução](BREEDING.md) | [📚 Índice](README.md) | [Próximo: Item Box →](ITEMBOX.md)

@@ -69,3 +69,7 @@ Todos conectados através de um núcleo — **O Portal**, um hub para **negocia�
 
 **Bem-vindo ao Portal.**\
 **Bem-vindo ao futuro dos jogos.** 🌌
+
+---
+
+[← Anterior: Tokenomics](TOKENOMICS.md) | [📚 Índice](README.md)

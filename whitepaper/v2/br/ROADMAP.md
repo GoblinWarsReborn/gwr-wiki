@@ -50,6 +50,10 @@
 * [ ] App Android
 * [ ] App iOS
 
+---
+
+[← Anterior: Jogar para Ganhar](PLAY-TO-EARN.md) | [📚 Índice](README.md) | [Próximo: Modo Mineração →](MINING-MODE.md)
+
 ***
 
 #### 🌕 Q2 / 2026

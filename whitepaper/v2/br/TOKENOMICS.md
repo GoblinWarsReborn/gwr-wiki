@@ -149,3 +149,7 @@ A economia gerará valor através de:
 ***
 
 🧠 *Construído com transparência e valor em mente. Goblin Wars é projetado para recompensar a comunidade enquanto garante sustentabilidade a longo prazo.* ⚔️
+
+---
+
+[← Anterior: Ouro](GOLD.md) | [📚 Índice](README.md) | [Próximo: O Portal →](THE-PORTAL.md)

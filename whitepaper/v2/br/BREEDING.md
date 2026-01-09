@@ -55,3 +55,7 @@ Para calcular a raridade da reprodução, você deve pegar a raridade dos dois g
 |     2 pts | Gobox Incomum  |      700 |                200 |
 |     3 pts | Gobox Raro     |     2000 |                500 |
 |     4 pts | Gobox Raro     |     2000 |                500 |
+
+---
+
+[← Anterior: Mineração & NFT](MINING-NFT.md) | [📚 Índice](README.md) | [Próximo: Gobox →](GOBOX.md)

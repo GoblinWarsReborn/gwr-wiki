@@ -26,3 +26,7 @@ Gold é essencial para vários aspectos da jogabilidade, incluindo:
 Ao contrário do **GOBI**, Gold **não é um token** e **não pode ser negociado fora** do jogo. Ele foi projetado para apoiar a **economia interna** e ajudar os jogadores a progredir na jogabilidade sem afetar o ecossistema de tokens descentralizados.
 
 Gold é crucial para gerenciar sua horda com eficiência e sustentar a jogabilidade a longo prazo sem depender apenas de investimentos externos. ⚔️🌿
+
+---
+
+[← Anterior: Goblin Hero Soul](GOBI.md) | [📚 Índice](README.md) | [Próximo: Tokenomics →](TOKENOMICS.md)

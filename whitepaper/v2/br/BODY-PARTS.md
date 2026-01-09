@@ -82,3 +82,7 @@ Todas as habilidades serão baseadas nos atributos básicos:
 * 😬 **Cerrada** (Per+1, Agi-1) \[Goblins da Montanha]
 * 😎 **Esnobe** (Per+1, Agi-1) \[Goblins Sombrios]
 * 🐠 **Peixe** (For+1, Vig-1) \[Goblins do Mar]
+
+---
+
+[← Anterior: Mar](RACE-SEA.md) | [📚 Índice](README.md) | [Próximo: Raridade →](RARITY.md)

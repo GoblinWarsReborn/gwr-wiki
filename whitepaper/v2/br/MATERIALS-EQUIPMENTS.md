@@ -28,3 +28,7 @@ Na verdade, **atributos não terão importância no combate** – eles apenas de
 * 🎸 **Harpas ou guitarras** sendo usadas por **Goblins carismáticos**.
 
 <figure><img src="images/background.jpg" alt=""><figcaption></figcaption></figure>
+
+---
+
+[← Anterior: Modo Criação](CRAFTING-MODE.md) | [📚 Índice](README.md) | [Próximo: Modo Arena →](ARENA.md)

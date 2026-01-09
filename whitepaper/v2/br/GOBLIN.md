@@ -36,3 +36,7 @@ mas os goblins são **monógamos** 💍 e cada parceiro pode gerar até **7 filh
 
 Um casal pode ser **separado** quando um dos parceiros é **vendido**.\
 Sempre que isso acontece, há um **período de tempo limite / resfriamento** quando aquele goblin **não poderá reproduzir outro**. ⏳🚫
+
+---
+
+[← Anterior: Modo Masmorra](DUNGEON.md) | [📚 Índice](README.md) | [Próximo: Raças →](RACES.md)

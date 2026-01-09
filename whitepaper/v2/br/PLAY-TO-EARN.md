@@ -46,3 +46,6 @@ A ordem em que isso é realizado não importa.
 > Mas ainda será possível comprar caixas, reproduzir, fundir, recarregar goblins com o saldo em sua conta. 🔄
 >
 > <img src="images/play-to-earn.jpg" alt="" data-size="original">
+---
+
+[← Anterior: Metaverso](METAVERSE.md) | [📚 Índice](README.md) | [Próximo: Roadmap →](ROADMAP.md)

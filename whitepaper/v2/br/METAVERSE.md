@@ -48,3 +48,7 @@ Será separado da seguinte forma:
 * 🧭 Descoberta de terrenos
 * 🏯 Fortaleza Goblin
 * 🚨 Invasão
+
+---
+
+[← Anterior: Lore](LORE.md) | [📚 Índice](README.md) | [Próximo: Jogar para Ganhar →](PLAY-TO-EARN.md)

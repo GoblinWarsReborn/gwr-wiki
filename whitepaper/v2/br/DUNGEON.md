@@ -63,3 +63,7 @@ Our battling system operates with **automatic leveled matchmaking**, ensuring fa
 
 🚨 **Beware!**\
 Side effects such as **damage taken**, **lost resources**, etc., are **greater for the loser** and **recovery time is longer** than with quests. ⛑️🧾
+
+---
+
+[← Anterior: Modo Arena](ARENA.md) | [📚 Índice](README.md) | [Próximo: Goblin →](GOBLIN.md)

@@ -54,3 +54,7 @@ Each **quest card** will display the **most probable loot types** you can earn i
 ***
 
 🧭 **Plan your squad, choose your quest, and claim your rewards like a true Warchief!**
+
+---
+
+[← Anterior: Modo Mineração](MINING-MODE.md) | [📚 Índice](README.md) | [Próximo: Modo Criação →](CRAFTING-MODE.md)

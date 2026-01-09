@@ -57,3 +57,7 @@ Vencer na Arena concede:
 ***
 
 🏟️ **Entre na Arena, prove seu valor e torne-se uma lenda entre os senhores da guerra de Mudhora!** ⚔️🌟
+
+---
+
+[← Anterior: Materiais e Equipamentos](MATERIALS-EQUIPMENTS.md) | [📚 Índice](README.md) | [Próximo: Modo Masmorra →](DUNGEON.md)

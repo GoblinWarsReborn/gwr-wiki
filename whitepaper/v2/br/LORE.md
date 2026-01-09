@@ -29,3 +29,7 @@
 🗺️ *Os jogadores conhecerão cada vez mais sobre a vida dos goblins e outros seres em Mudhora através de missões geradas por nosso algoritmo de missões e através de missões periódicas com o objetivo de ampliar seu lore.*<br>
 
 <br>
+
+---
+
+[← Anterior: Goblin Wars](GOBLINWARS.md) | [📚 Índice](README.md) | [Próximo: Metaverso →](METAVERSE.md)

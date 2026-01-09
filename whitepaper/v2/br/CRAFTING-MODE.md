@@ -34,3 +34,7 @@ Estes elementos **podem ser removidos** de um personagem se o jogador quiser, **
 
 🧠 **Decisão Estratégica:**\
 Esta mecânica é uma boa opção **apenas quando oportunidades raras** se apresentam. 🎯🌟
+
+---
+
+[← Anterior: Modo Missões](QUEST-MODE.md) | [📚 Índice](README.md) | [Próximo: Materiais e Equipamentos →](MATERIALS-EQUIPMENTS.md)

@@ -50,6 +50,10 @@
 * [ ] App Android
 * [ ] App iOS
 
+---
+
+[← Anterior: Roadmap](ROADMAP.md) | [📚 Índice](README.md) | [Próximo: Modo Missões →](QUEST-MODE.md)
+
 ***
 
 #### 🌕 Q2 / 2026

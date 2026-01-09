@@ -56,6 +56,10 @@ A economia Goblin é impulsionada por:
 
 ***
 
+---
+
+[← Anterior: Raridade](RARITY.md) | [📚 Índice](README.md) | [Próximo: Reprodução →](BREEDING.md)
+
 ***
 
 ### 🔥 **NFT Transformation**

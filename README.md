@@ -4,12 +4,16 @@ Bem-vindo ao wiki oficial do Goblin Wars! Este repositório contém toda a docum
 
 ## 📑 Índice
 
-### 📄 Documentos Principais
+### 📄 Documentos do Projeto
 
-- [GDD - Game Design Document](GDD.md)
-- [Mobile - Especificação de Telas](MOBILE.md)
-- [Website - Especificação de Páginas](WEBSITE.md)
-- [Processos da Empresa](PROCESSOS.md)
+- [GDD - Game Design Document](project/GDD.md)
+- [MAPA - Documentação do Continente Mudhora](project/MAPA.md)
+- [Mobile - Especificação de Telas](project/MOBILE.md)
+- [Website - Especificação de Páginas](project/WEBSITE.md)
+
+### 👥 Recursos Humanos
+
+- [Processos da Cooperativa](rh/README.md)
 
 ### 📚 Whitepaper
 

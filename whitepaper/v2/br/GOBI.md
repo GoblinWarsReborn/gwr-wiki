@@ -10,3 +10,7 @@
 * 🔥 Todos os GOBIs gastos criando novos Goblins serão **destruídos**, tornando a moeda ainda mais **escassa**, portanto **aumentando seu valor**.
 
 Estes mecanismos são destinados a **recompensar jogadores** por interagir com **Goblin Wars** e ao mesmo tempo **incentivá-los a manter seus tokens** para que possam reivindicar **recompensas adicionais**. 🎮🏆
+
+---
+
+[← Anterior: Fusão](FUSION.md) | [📚 Índice](README.md) | [Próximo: Ouro →](GOLD.md)

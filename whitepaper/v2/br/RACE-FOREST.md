@@ -11,3 +11,7 @@ Eles não têm uma constituição robusta ou força física, mas são inteligent
 Aqueles de raça pura têm pele verde, cabelo vermelho e olhos azuis. 💚❤️💙
 
 Eles são muito conectados à magia, guardiões do ambiente, sentidos aguçados, muitos são veganos e especializados em sobrevivência. 🔮🌱🛡️
+
+---
+
+[← Anterior: Raças](RACES.md) | [📚 Índice](README.md) | [Próximo: Deserto →](RACE-DESERT.md)

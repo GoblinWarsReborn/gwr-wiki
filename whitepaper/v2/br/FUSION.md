@@ -17,3 +17,7 @@ O novo goblin terá um **nível de raridade superior** e manterá **característ
 | Épico             | Lendário         | 3000             |
 
 🧪 Use a fusão sabiamente para melhorar sua horda e alcançar o status lendário! 🌟
+
+---
+
+[← Anterior: Item Box](ITEMBOX.md) | [📚 Índice](README.md) | [Próximo: Goblin Hero Soul →](GOBI.md)
