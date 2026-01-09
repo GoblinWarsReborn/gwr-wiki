@@ -1,6 +1,6 @@
 # Forest
 
-<figure><img src="images/race-forest.png" alt=""><figcaption><p>The protectors of nature, free and rebellious</p></figcaption></figure>
+![](images/race-forest.png)
 
 ### Forest Goblins
 

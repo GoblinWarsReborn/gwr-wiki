@@ -1,6 +1,6 @@
 # Gobox
 
-<figure><img src="images/gobox.png" alt=""><figcaption></figcaption></figure>
+![](images/gobox.png)
 
 **GoBox** is an **ERC1155 token** that will be sold in small quantities at the beginning of the project. From them, **wild NFT Goblins** can be randomly created. They can also be sold at the game's marketing site or on **DEX**. 🔄
 

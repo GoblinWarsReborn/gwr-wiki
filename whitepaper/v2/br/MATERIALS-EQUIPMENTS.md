@@ -27,7 +27,7 @@ Na verdade, **atributos não terão importância no combate** – eles apenas de
 * 🏹 **Arcos e bestas** só podem ser usados por um **Goblin de alta percepção**;
 * 🎸 **Harpas ou guitarras** sendo usadas por **Goblins carismáticos**.
 
-<figure><img src="images/background.jpg" alt=""><figcaption></figcaption></figure>
+![](images/background.jpg)
 
 ---
 

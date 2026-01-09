@@ -1,6 +1,6 @@
 # Caverna
 
-<figure><img src="images/race-cave.png" alt=""><figcaption><p>Bestiais, isolados e insanos</p></figcaption></figure>
+![](images/race-cave.png)
 
 ### Goblins da Caverna
 

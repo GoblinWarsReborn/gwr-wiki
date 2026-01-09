@@ -10,7 +10,7 @@ These boxes will only be created by players using the **crafting system** or as 
 
 #### 📦 **ITEMBOX COMMON**
 
-<figure><img src="images/itembox-common.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-common.png)
 
 * 🎲 One random equipment with:
   * 🟢 80% common
@@ -22,7 +22,7 @@ These boxes will only be created by players using the **crafting system** or as 
 
 #### 📦 **ITEMBOX UNCOMMON**
 
-<figure><img src="images/itembox-uncommon.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-uncommon.png)
 
 * 🎲 One random equipment with:
   * 🟢 50% common
@@ -36,7 +36,7 @@ These boxes will only be created by players using the **crafting system** or as 
 
 #### 📦 **ITEMBOX RARE**
 
-<figure><img src="images/itembox-rare.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-rare.png)
 
 * 🎲 One random equipment with:
   * 🔵 50% uncommon
@@ -50,7 +50,7 @@ These boxes will only be created by players using the **crafting system** or as 
 
 #### 📦 **ITEMBOX EPIC**
 
-<figure><img src="images/itembox-epic.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-epic.png)
 
 * 🎲 One random equipment with:
   * 🟣 50% rare
@@ -64,7 +64,7 @@ These boxes will only be created by players using the **crafting system** or as 
 
 #### 📦 **ITEMBOX LEGENDARY**
 
-<figure><img src="images/itembox-legendary.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-legendary.png)
 
 * 🎲 One random equipment with:
   * 🟤 50% epic

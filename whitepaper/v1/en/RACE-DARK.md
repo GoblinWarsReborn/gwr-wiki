@@ -1,6 +1,6 @@
 # Dark
 
-<figure><img src="images/race-dark.png" alt=""><figcaption><p>Elite of arrogant goblins think they are superior to others</p></figcaption></figure>
+![](images/race-dark.png)
 
 Dark Goblins
 

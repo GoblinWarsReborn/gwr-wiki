@@ -1,6 +1,6 @@
 # Mar
 
-<figure><img src="images/race-sea.png" alt=""><figcaption><p>Senhores dos mares, os piratas</p></figcaption></figure>
+![](images/race-sea.png)
 
 ### Goblin dos Mares
 

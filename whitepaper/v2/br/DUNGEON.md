@@ -1,6 +1,6 @@
 # Modo Masmorra
 
-<figure><img src="images/dungeon.png" alt=""><figcaption></figcaption></figure>
+![](images/dungeon.png)
 
 Os sistemas de combate serão basicamente baseados em **alcance**, **movimento**, **defesa** e **saúde**. 🎯🛡️💥
 

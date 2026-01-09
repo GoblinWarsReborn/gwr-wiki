@@ -1,6 +1,6 @@
 # Floresta
 
-<figure><img src="images/race-forest.png" alt=""><figcaption><p>Os protetores da natureza, livres e rebeldes</p></figcaption></figure>
+![](images/race-forest.png)
 
 ### Goblins da Floresta
 

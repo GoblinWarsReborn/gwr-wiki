@@ -27,4 +27,4 @@ In fact, **attributes will have no importance in combat** – they will only det
 * 🏹 **Bows and crossbows** can only be used by a **high-perception Goblin**;
 * 🎸 **Harps or guitars** being used by **charismatic Goblins**.
 
-<figure><img src="images/background.jpg" alt=""><figcaption></figcaption></figure>
+![](images/background.jpg)

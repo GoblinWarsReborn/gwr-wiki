@@ -1,6 +1,6 @@
 # Gobox
 
-<figure><img src="images/gobox.png" alt=""><figcaption></figcaption></figure>
+![](images/gobox.png)
 
 **GoBox** é um **token ERC1155** que será vendido em pequenas quantidades no início do projeto. A partir deles, **Goblins NFT selvagens** podem ser criados aleatoriamente. Eles também podem ser vendidos no site de marketing do jogo ou em **DEX**. 🔄
 

@@ -1,6 +1,6 @@
 # Dungeon Mode
 
-<figure><img src="images/dungeon.png" alt=""><figcaption></figcaption></figure>
+![](images/dungeon.png)
 
 Combat systems will basically be based on **range**, **movement**, **defense** and **health**. 🎯🛡️💥
 

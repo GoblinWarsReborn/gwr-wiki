@@ -12,7 +12,7 @@ A moeda que os cria é um **token BEP20**.
 
 A **emissão máxima** é limitada a **300.000.000 de tokens**, e este valor **nunca será excedido**.
 
-<figure><img src="images/tokenomics.png" alt=""><figcaption></figcaption></figure>
+![](images/tokenomics.png)
 
 ***
 

@@ -5,7 +5,7 @@
 In the future we plan to split the game into a **metaverse**, where each of the features will be in a separate game, but on top of the same tokens.\
 It will be separated as follows:
 
-<figure><img src="images/metaverse.png" alt=""><figcaption></figcaption></figure>
+![](images/metaverse.png)
 
 ***
 

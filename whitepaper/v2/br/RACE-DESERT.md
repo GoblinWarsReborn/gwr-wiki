@@ -1,6 +1,6 @@
 # Deserto
 
-<figure><img src="images/race-desert.png" alt=""><figcaption><p>Nômades avermelhados que carregam o traço reptiliano</p></figcaption></figure>
+![](images/race-desert.png)
 
 ### Goblins do Deserto
 

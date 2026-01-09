@@ -5,7 +5,7 @@
 No futuro, planejamos dividir o jogo em um **metaverso**, onde cada uma das funcionalidades estará em um jogo separado, mas sobre os mesmos tokens.\
 Será separado da seguinte forma:
 
-<figure><img src="images/metaverse.png" alt=""><figcaption></figcaption></figure>
+![](images/metaverse.png)
 
 ***
 

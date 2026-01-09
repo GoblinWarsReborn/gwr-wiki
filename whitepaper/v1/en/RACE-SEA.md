@@ -1,6 +1,6 @@
 # Sea
 
-<figure><img src="images/race-sea.png" alt=""><figcaption><p>Lords of the seas, the pirates</p></figcaption></figure>
+![](images/race-sea.png)
 
 ### Goblin of the Seas
 

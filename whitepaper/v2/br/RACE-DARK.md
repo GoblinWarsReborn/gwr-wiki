@@ -1,6 +1,6 @@
 # Sombrio
 
-<figure><img src="images/race-dark.png" alt=""><figcaption><p>Elite de goblins arrogantes que se acham superiores aos outros</p></figcaption></figure>
+![](images/race-dark.png)
 
 ### Goblins Sombrios
 

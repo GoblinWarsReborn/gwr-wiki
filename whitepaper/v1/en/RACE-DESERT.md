@@ -1,6 +1,6 @@
 # Desert
 
-<figure><img src="images/race-desert.png" alt=""><figcaption><p>Reddish nomads that carry the reptilian trait</p></figcaption></figure>
+![](images/race-desert.png)
 
 ### Desert Goblins
 

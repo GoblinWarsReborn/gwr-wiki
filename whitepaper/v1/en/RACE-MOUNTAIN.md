@@ -1,6 +1,6 @@
 # Mountain
 
-<figure><img src="images/race-mountain.png" alt=""><figcaption><p>Rustic, brutish and stubborn</p></figcaption></figure>
+![](images/race-mountain.png)
 
 ### Mountain Goblins
 

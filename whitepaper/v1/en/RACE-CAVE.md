@@ -1,6 +1,6 @@
 # Cave
 
-<figure><img src="images/race-cave.png" alt=""><figcaption><p>Beastly, isolated and insane</p></figcaption></figure>
+![](images/race-cave.png)
 
 ### Cave Goblins
 

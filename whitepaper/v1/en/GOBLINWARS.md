@@ -1,6 +1,6 @@
 # Goblin Wars
 
-<figure><img src="images/index.png" alt=""><figcaption></figcaption></figure>
+![](images/index.png)
 
 ## 🐲 Goblin Wars
 

@@ -1,6 +1,6 @@
 # Montanha
 
-<figure><img src="images/race-mountain.png" alt=""><figcaption><p>Rústicos, brutais e teimosos</p></figcaption></figure>
+![](images/race-mountain.png)
 
 ### Goblins da Montanha
 

@@ -10,7 +10,7 @@ Essas caixas só serão criadas pelos jogadores usando o **sistema de criação*
 
 #### 📦 **ITEMBOX COMUM**
 
-<figure><img src="images/itembox-common.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-common.png)
 
 * 🎲 Um equipamento aleatório com:
   * 🟢 80% comum
@@ -22,7 +22,7 @@ Essas caixas só serão criadas pelos jogadores usando o **sistema de criação*
 
 #### 📦 **ITEMBOX INCOMUM**
 
-<figure><img src="images/itembox-uncommon.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-uncommon.png)
 
 * 🎲 Um equipamento aleatório com:
   * 🟢 50% comum
@@ -36,7 +36,7 @@ Essas caixas só serão criadas pelos jogadores usando o **sistema de criação*
 
 #### 📦 **ITEMBOX RARO**
 
-<figure><img src="images/itembox-rare.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-rare.png)
 
 * 🎲 Um equipamento aleatório com:
   * 🔵 50% incomum
@@ -50,7 +50,7 @@ Essas caixas só serão criadas pelos jogadores usando o **sistema de criação*
 
 #### 📦 **ITEMBOX ÉPICO**
 
-<figure><img src="images/itembox-epic.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-epic.png)
 
 * 🎲 Um equipamento aleatório com:
   * 🟣 50% raro
@@ -64,7 +64,7 @@ Essas caixas só serão criadas pelos jogadores usando o **sistema de criação*
 
 #### 📦 **ITEMBOX LENDÁRIO**
 
-<figure><img src="images/itembox-legendary.png" alt=""><figcaption></figcaption></figure>
+![](images/itembox-legendary.png)
 
 * 🎲 Um equipamento aleatório com:
   * 🟤 50% épico

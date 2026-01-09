@@ -4,7 +4,7 @@
 
 🪄 *Você assumirá o papel de um dos senhores da guerra magos tentando conquistar a terra de Mudhora, com magia negra invocando exércitos de subordinados em seu caminho de destruição mútua.*
 
-<figure><img src="images/lore.jpg" alt=""><figcaption></figcaption></figure>
+![](images/lore.jpg)
 
 ***
 

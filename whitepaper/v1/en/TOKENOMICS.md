@@ -12,7 +12,7 @@ The currency that creates them is a **BEP20 token**.
 
 The **maximum issuance** is capped at **300,000,000 tokens**, and this value will **never be exceeded**.
 
-<figure><img src="images/tokenomics.png" alt=""><figcaption></figcaption></figure>
+![](images/tokenomics.png)
 
 ***
 
