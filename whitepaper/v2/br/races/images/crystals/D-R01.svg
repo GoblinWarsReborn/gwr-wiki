@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="topaz-rare" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:1" />
+    </linearGradient>
+    <filter id="rare-glow-d">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g transform="translate(32, 32)">
+    <polygon points="0,-28 14,-12 16,0 12,28 -12,28 -16,0 -14,-12" fill="url(#topaz-rare)" stroke="#d97706" stroke-width="2.5" filter="url(#rare-glow-d)"/>
+    <polygon points="0,-28 14,-12 0,-5" fill="#d8b4fe" opacity="0.8"/>
+    <polygon points="-14,-12 0,-5 -16,0" fill="#d97706" opacity="0.5"/>
+    <polygon points="0,-5 12,28 -12,28" fill="#b45309" opacity="0.4"/>
+    <circle cx="0" cy="-10" r="5" fill="#ffffff" opacity="0.7"/>
+    <circle cx="0" cy="8" r="4" fill="#fbbf24" opacity="0.6"/>
+  </g>
+</svg>

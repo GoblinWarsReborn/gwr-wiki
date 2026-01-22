@@ -1,0 +1,49 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="prismatic-primordial" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="14%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="28%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="42%" style="stop-color:#22c55e;stop-opacity:1" />
+      <stop offset="56%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="84%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+    <filter id="legendary-glow-x1">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="prism-center-x1">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:0.9" />
+    </radialGradient>
+    <linearGradient id="rainbow-accent-1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#22c55e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(32, 32)">
+    <polygon points="0,-32 22,-16 26,0 22,32 -22,32 -26,0 -22,-16" fill="url(#prismatic-primordial)" stroke="#ffffff" stroke-width="4" filter="url(#legendary-glow-x1)"/>
+    <polygon points="0,-32 22,-16 0,-8" fill="#fef3c7" opacity="0.95"/>
+    <polygon points="-22,-16 0,-8 -26,0" fill="url(#rainbow-accent-1)" opacity="0.8"/>
+    <polygon points="0,-8 22,32 -22,32" fill="url(#rainbow-accent-1)" opacity="0.7"/>
+    <circle cx="0" cy="0" r="14" fill="url(#prism-center-x1)"/>
+    <path d="M 0,-32 L 0,32" stroke="#fbbf24" stroke-width="3" opacity="0.9"/>
+    <path d="M -22,-16 L 22,32" stroke="#ef4444" stroke-width="2" opacity="0.8"/>
+    <path d="M 22,-16 L -22,32" stroke="#3b82f6" stroke-width="2" opacity="0.8"/>
+    <path d="M -26,0 L 26,0" stroke="#22c55e" stroke-width="2" opacity="0.8"/>
+    <circle cx="0" cy="-22" r="5" fill="#ef4444" opacity="1"/>
+    <circle cx="-15" cy="-8" r="4" fill="#22c55e" opacity="1"/>
+    <circle cx="15" cy="-8" r="4" fill="#3b82f6" opacity="1"/>
+    <circle cx="-15" cy="12" r="4" fill="#8b5cf6" opacity="1"/>
+    <circle cx="15" cy="12" r="4" fill="#ec4899" opacity="1"/>
+    <circle cx="0" cy="20" r="4" fill="#fbbf24" opacity="1"/>
+    <path d="M -4,-32 L 4,-32 L 0,-26 Z" fill="#ffffff" opacity="1"/>
+    <circle cx="0" cy="0" r="4" fill="#ffffff" opacity="1"/>
+  </g>
+</svg>

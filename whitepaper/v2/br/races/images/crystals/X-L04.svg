@@ -1,0 +1,57 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow-diamond" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="12%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="24%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="36%" style="stop-color:#22c55e;stop-opacity:1" />
+      <stop offset="48%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="72%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="84%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+    <filter id="legendary-glow-x4">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="prism-center-x4">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.9" />
+    </radialGradient>
+    <linearGradient id="rainbow-stroke" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(32, 32)">
+    <polygon points="0,-32 16,-16 24,0 16,16 0,32 -16,16 -24,0 -16,-16" fill="url(#rainbow-diamond)" stroke="url(#rainbow-stroke)" stroke-width="4" filter="url(#legendary-glow-x4)"/>
+    <polygon points="0,-32 16,-16 0,-8" fill="#ffffff" opacity="0.95"/>
+    <polygon points="-16,-16 0,-8 -24,0" fill="#fef3c7" opacity="0.9"/>
+    <polygon points="16,-16 24,0 0,0" fill="#cffafe" opacity="0.9"/>
+    <polygon points="0,0 16,16 0,8" fill="#ddd6fe" opacity="0.8"/>
+    <polygon points="0,0 -16,16 0,8" fill="#fce7f3" opacity="0.8"/>
+    <polygon points="-16,-16 0,0 -16,16" fill="#d1fae5" opacity="0.7"/>
+    <polygon points="16,-16 0,0 16,16" fill="#fef3c7" opacity="0.7"/>
+    <circle cx="0" cy="0" r="10" fill="url(#prism-center-x4)"/>
+    <path d="M 0,-32 L 0,32" stroke="#ffffff" stroke-width="3" opacity="0.9"/>
+    <path d="M -24,0 L 24,0" stroke="#ffffff" stroke-width="3" opacity="0.9"/>
+    <path d="M -16,-16 L 16,16" stroke="#fbbf24" stroke-width="2.5" opacity="0.8"/>
+    <path d="M 16,-16 L -16,16" stroke="#3b82f6" stroke-width="2.5" opacity="0.8"/>
+    <circle cx="0" cy="-24" r="6" fill="#ef4444" opacity="1"/>
+    <circle cx="18" cy="-12" r="5" fill="#fbbf24" opacity="1"/>
+    <circle cx="24" cy="0" r="5" fill="#22c55e" opacity="1"/>
+    <circle cx="18" cy="12" r="5" fill="#3b82f6" opacity="1"/>
+    <circle cx="0" cy="24" r="6" fill="#8b5cf6" opacity="1"/>
+    <circle cx="-18" cy="12" r="5" fill="#ec4899" opacity="1"/>
+    <circle cx="-24" cy="0" r="5" fill="#06b6d4" opacity="1"/>
+    <circle cx="-18" cy="-12" r="5" fill="#f97316" opacity="1"/>
+    <path d="M -4,-32 L 4,-32 L 0,-27 Z" fill="#ffffff" opacity="1"/>
+    <path d="M -4,32 L 4,32 L 0,27 Z" fill="#ffffff" opacity="1"/>
+    <circle cx="0" cy="0" r="3" fill="#ffffff" opacity="1"/>
+  </g>
+</svg>

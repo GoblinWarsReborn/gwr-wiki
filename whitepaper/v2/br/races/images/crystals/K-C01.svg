@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ruby-common" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7f1d1d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(32, 32)">
+    <polygon points="0,-24 8,-8 0,24 -8,-8" fill="url(#ruby-common)" stroke="#991b1b" stroke-width="1.5"/>
+    <polygon points="0,-24 8,-8 0,0" fill="#fca5a5" opacity="0.6"/>
+    <circle cx="0" cy="0" r="3" fill="#ffffff" opacity="0.5"/>
+  </g>
+</svg>

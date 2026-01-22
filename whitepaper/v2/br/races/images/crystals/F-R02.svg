@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="jade-rare" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c084fc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(32, 32)">
+    <polygon points="0,-27 15,-10 17,2 13,27 -13,27 -17,2 -15,-10" fill="url(#jade-rare)" stroke="#059669" stroke-width="2.5"/>
+    <polygon points="0,-27 15,-10 0,-3" fill="#e9d5ff" opacity="0.8"/>
+    <polygon points="0,-3 13,27 -13,27" fill="#047857" opacity="0.5"/>
+    <line x1="0" y1="-27" x2="0" y2="27" stroke="#ffffff" stroke-width="2" opacity="0.5"/>
+    <line x1="-15" y1="-10" x2="15" y2="-10" stroke="#a855f7" stroke-width="1.5" opacity="0.4"/>
+    <line x1="-17" y1="2" x2="17" y2="2" stroke="#22c55e" stroke-width="1.5" opacity="0.4"/>
+  </g>
+</svg>
