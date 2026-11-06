@@ -14,4 +14,4 @@ Eles são muito conectados à magia, guardiões do ambiente, sentidos aguçados,
 
 ---
 
-[← Anterior: Raças](RACES.md) | [📚 Índice](README.md) | [Próximo: Deserto →](RACE-DESERT.md)
+[← Anterior: Raças](RACES.md) | [📚 Índice](README.md) | [Próximo: Selvagem →](RACE-SAVAGE.md)

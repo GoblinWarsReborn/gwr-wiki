@@ -22,8 +22,8 @@ Todas as habilidades serão baseadas nos atributos básicos:
 #### 🧬 Raças
 
 * 🌲 **Floresta** (Int+1, Per+1, For-1, Agi-1)
-* 🏜️ **Deserto** (Agi+1, Int+1, Vig-1, Per-1)
-* 🕳️ **Caverna** (For+1, Vig+1, Car-1, Per-1)
+* 🪓 **Selvagem** (Agi+1, Int+1, Vig-1, Per-1)
+* 🏜️ **Deserto** (For+1, Vig+1, Car-1, Per-1)
 * 🗻 **Montanha** (Vig+1, Per+1, Car-1, Int-1)
 * 🌑 **Sombrio** (Agi+1, Int+1, For-1, Vig-1)
 * 🌊 **Mar** (Car+1, Per+1, For-1, Vig-1)
@@ -33,8 +33,8 @@ Todas as habilidades serão baseadas nos atributos básicos:
 #### 🧖 Pele
 
 * 🌿 **Macia** (Car+1, Per-1) \[Goblins da Floresta]
-* 🪨 **Dura** (Vig+1, Int-1) \[Goblins do Deserto]
-* 🌬️ **Ressecada** (Agi+1, Per-1) \[Goblins da Caverna]
+* 🪨 **Dura** (Vig+1, Int-1) \[Goblins Selvagens]
+* 🌬️ **Ressecada** (Agi+1, Per-1) \[Goblins do Deserto]
 * 🧱 **Rígida** (Vig+1, Car-1) \[Goblins da Montanha]
 * ❄️ **Gélida** (Int+1, Per-1) \[Goblins Sombrios]
 * 🐟 **Escamosa** (Car+1, For-1) \[Goblins do Mar]
@@ -44,8 +44,8 @@ Todas as habilidades serão baseadas nos atributos básicos:
 #### 💇 Cabelo
 
 * 🍄 **Coki** (Int+1, Vig-1) \[Goblins da Floresta]
-* 🌪️ **Rebelde** (Per+1, Car-1) \[Goblins do Deserto]
-* ❌ **Careca** (For+1, Car-1) \[Goblins da Caverna]
+* 🌪️ **Rebelde** (Per+1, Car-1) \[Goblins Selvagens]
+* ❌ **Careca** (For+1, Car-1) \[Goblins do Deserto]
 * 🦁 **Desgrenhado** (For+1, Per-1) \[Goblins da Montanha]
 * 🦊 **Liso** (Per+1, Vig-1) \[Goblins Sombrios]
 * 🐙 **Dread** (Car+1, Int-1) \[Goblins do Mar]
@@ -55,8 +55,8 @@ Todas as habilidades serão baseadas nos atributos básicos:
 #### 👂 Orelha
 
 * 🔸 **Comum** (For+1, Agi-1) \[Goblins da Floresta]
-* 🔹 **Pequena** (Car+1, For-1) \[Goblins do Deserto]
-* 🧠 **Caída** (Int+1, Per-1) \[Goblins da Caverna]
+* 🔹 **Pequena** (Car+1, For-1) \[Goblins Selvagens]
+* 🧠 **Caída** (Int+1, Per-1) \[Goblins do Deserto]
 * 🦇 **Morcego** (Agi+1, Per-1) \[Goblins da Montanha]
 * 🧝 **Pontuda** (Int+1, Agi-1) \[Goblins Sombrios]
 * 🐬 **Barbatana** (For+1, Agi-1) \[Goblins do Mar]
@@ -66,8 +66,8 @@ Todas as habilidades serão baseadas nos atributos básicos:
 #### 👁️ Olho
 
 * 🌼 **Limpo** (Per+1, For-1) \[Goblins da Floresta]
-* 🐍 **Serpente** (Per+1, Vig-1) \[Goblins do Deserto]
-* 🌌 **Profundo** (Agi+1, Int-1) \[Goblins da Caverna]
+* 🐍 **Serpente** (Per+1, Vig-1) \[Goblins Selvagens]
+* 🌌 **Profundo** (Agi+1, Int-1) \[Goblins do Deserto]
 * 😠 **Raivoso** (Vig+1, Int-1) \[Goblins da Montanha]
 * 😏 **Arrogante** (Car+1, Agi-1) \[Goblins Sombrios]
 * 🌑 **Escuro** (Vig+1, Int-1) \[Goblins do Mar]
@@ -77,8 +77,8 @@ Todas as habilidades serão baseadas nos atributos básicos:
 #### 👄 Boca
 
 * 🐗 **Grande** (Agi+1, Int-1) \[Goblins da Floresta]
-* 🐁 **Pequena** (Agi+1, Per-1) \[Goblins do Deserto]
-* 🧛 **Presas** (Vig+1, Car-1) \[Goblins da Caverna]
+* 🐁 **Pequena** (Agi+1, Per-1) \[Goblins Selvagens]
+* 🧛 **Presas** (Vig+1, Car-1) \[Goblins do Deserto]
 * 😬 **Cerrada** (Per+1, Agi-1) \[Goblins da Montanha]
 * 😎 **Esnobe** (Per+1, Agi-1) \[Goblins Sombrios]
 * 🐠 **Peixe** (For+1, Vig-1) \[Goblins do Mar]

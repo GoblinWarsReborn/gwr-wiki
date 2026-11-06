@@ -40,7 +40,7 @@ O Sistema de Cristais é um mecanismo que gera cristais especiais baseados em **
 
 ### Processo de Formação
 
-1. **Para cada raça** (Forest, Mountain, Desert, Sea, Cave, Dark):
+1. **Para cada raça** (Forest, Mountain, Savage, Sea, Desert, Dark):
    - Verificar regra **Legendary** (1 cristal) → Se satisfeita, atribui
    - Verificar regras **Epic** (2 cristais: E-01 e E-02) → Se satisfeita, atribui
    - Verificar regras **Rare** (3 cristais: R-01, R-02, R-03) → Se satisfeita, atribui
@@ -123,23 +123,23 @@ Cada cristal possui uma **regra específica e única**. As regras são verificad
 
 ---
 
-### Desert (Deserto) - 13 Cristais
+### Savage (Selvagem) - 13 Cristais
 
 | Tier | ID | Nome | Pontos | Regra Específica |
 |------|----|----|------0 Cristais
 
 | Tier | ID | Nome | Pontos | Regra Específica |
 |------|----|----|--------|------------------|
-| **Legendary** | D-L | Topázio do Sol Eterno | 50 | **30 genes Desert** (DD + R1 + R2 em todas as 10 características) |
-| **Epic** | D-E01 | Topázio Fogo do Deserto | 22 | **3 características completas** Desert (9 genes: 3 DD + 3 R1 + 3 R2) |
-| **Epic** | D-E02 | Topázio Azul Imperial | 22 | **7 DD** Desert em qualquer característica |
-| **Rare** | D-R01 | Topázio Dourado | 12 | **2 características completas** Desert (6 genes: 2 DD + 2 R1 + 2 R2) |
-| **Rare** | D-R02 | Topázio Sherry | 12 | **5 DD** Desert em qualquer característica |
-| **Rare** | D-R03 | Citrino Madeira | 12 | **5 R1** Desert em qualquer característica |
-| **Uncommon** | D-U01 | Âmbar Solar | 4 | **1 característica completa** Desert (3 genes: DD + R1 + R2) |
-| **Uncommon** | D-U02 | Citrino das Dunas | 4 | **3 DD** Desert em qualquer característica |
-| **Uncommon** | D-U03 | Opala de Fogo | 4 | **3 R1** Desert em qualquer característica |
-| **Uncommon** | D-U04 | Cornalina | 4 | **3 R2** Desert em qualquer característica
+| **Legendary** | V-L | Topázio do Sol Eterno | 50 | **30 genes Savage** (DD + R1 + R2 em todas as 10 características) |
+| **Epic** | V-E01 | Topázio Fogo Selvagem | 22 | **3 características completas** Savage (9 genes: 3 DD + 3 R1 + 3 R2) |
+| **Epic** | V-E02 | Topázio Azul Imperial | 22 | **7 DD** Savage em qualquer característica |
+| **Rare** | V-R01 | Topázio Dourado | 12 | **2 características completas** Savage (6 genes: 2 DD + 2 R1 + 2 R2) |
+| **Rare** | V-R02 | Topázio Sherry | 12 | **5 DD** Savage em qualquer característica |
+| **Rare** | V-R03 | Citrino Madeira | 12 | **5 R1** Savage em qualquer característica |
+| **Uncommon** | V-U01 | Âmbar Solar | 4 | **1 característica completa** Savage (3 genes: DD + R1 + R2) |
+| **Uncommon** | V-U02 | Citrino Selvagem | 4 | **3 DD** Savage em qualquer característica |
+| **Uncommon** | V-U03 | Opala de Fogo | 4 | **3 R1** Savage em qualquer característica |
+| **Uncommon** | V-U04 | Cornalina | 4 | **3 R2** Savage em qualquer característica
 
 ### Sea (Mar) - 13 Cristais
 
@@ -159,23 +159,23 @@ Cada cristal possui uma **regra específica e única**. As regras são verificad
 | **Uncommon** | S-U03 | Apatita Azul | 4 | **3 R1** Sea em qualquer característica |
 | **Uncommon** | S-U04 | Larimar | 4 | **3 R2** Sea em qualquer característica
 
-### Cave (Caverna) - 13 Cristais
+### Desert (Deserto) - 13 Cristais
 
 | Tier | ID | Nome | Pontos | Regra Específica |
 |------|----|----|----0 Cristais
 
 | Tier | ID | Nome | Pontos | Regra Específica |
 |------|----|----|--------|------------------|
-| **Legendary** | C-L | Ametista do Abismo Profundo | 50 | **30 genes Cave** (DD + R1 + R2 em todas as 10 características) |
-| **Epic** | C-E01 | Ametista Siberiana | 22 | **3 características completas** Cave (9 genes: 3 DD + 3 R1 + 3 R2) |
-| **Epic** | C-E02 | Ametista Rose de France | 22 | **7 DD** Cave em qualquer característica |
-| **Rare** | C-R01 | Ametista Geodo | 12 | **2 características completas** Cave (6 genes: 2 DD + 2 R1 + 2 R2) |
-| **Rare** | C-R02 | Ametista Uruguaia | 12 | **5 DD** Cave em qualquer característica |
-| **Rare** | C-R03 | Ametrina | 12 | **5 R1** Cave em qualquer característica |
-| **Uncommon** | C-U01 | Ametista das Cavernas | 4 | **1 característica completa** Cave (3 genes: DD + R1 + R2) |
-| **Uncommon** | C-U02 | Fluorita Roxa | 4 | **3 DD** Cave em qualquer característica |
-| **Uncommon** | C-U03 | Lepidolita | 4 | **3 R1** Cave em qualquer característica |
-| **Uncommon** | C-U04 | Charoita | 4 | **3 R2** Cave em qualquer característica
+| **Legendary** | D-L | Ametista do Abismo Profundo | 50 | **30 genes Desert** (DD + R1 + R2 em todas as 10 características) |
+| **Epic** | D-E01 | Ametista Siberiana | 22 | **3 características completas** Desert (9 genes: 3 DD + 3 R1 + 3 R2) |
+| **Epic** | D-E02 | Ametista Rose de France | 22 | **7 DD** Desert em qualquer característica |
+| **Rare** | D-R01 | Ametista Geodo | 12 | **2 características completas** Desert (6 genes: 2 DD + 2 R1 + 2 R2) |
+| **Rare** | D-R02 | Ametista Uruguaia | 12 | **5 DD** Desert em qualquer característica |
+| **Rare** | D-R03 | Ametrina | 12 | **5 R1** Desert em qualquer característica |
+| **Uncommon** | D-U01 | Ametista das Dunas | 4 | **1 característica completa** Desert (3 genes: DD + R1 + R2) |
+| **Uncommon** | D-U02 | Fluorita Roxa | 4 | **3 DD** Desert em qualquer característica |
+| **Uncommon** | D-U03 | Lepidolita | 4 | **3 R1** Desert em qualquer característica |
+| **Uncommon** | D-U04 | Charoita | 4 | **3 R2** Desert em qualquer característica
 
 ### Dark (Trevas) - 13 Cristais
 
@@ -272,26 +272,26 @@ Cada cristal possui uma **regra específica e única**. As regras são verificad
 | Uncommon | M-U02 | Ágata Listrada | 4 | Ágata Bandada | Ágata com bandas paralelas definidas |
 | Uncommon | M-U03 | Quartzo Fumê | 4 | Quartzo Fumê | Cristal translúcido acastanhado |
 | Uncommon | M-U04 | Jaspe Marrom | 4 | Jaspe | Jaspe opaco marrom-avermelh
-### Desert (Amarelo/Dourado - Topázios e Citrinos) - 13 Cristais
+### Savage (Amarelo/Dourado - Topázios e Citrinos) - 13 Cristais
 
 | Tier | ID | Nome | Pontos | Pedra | Descrição |
 |------|----|----|--------|-------|-----------|
-| Legendary | D-L | Topázio do Sol Eterno | 40 | Topázio Azul Natural | Raríssimo topázio azul natural não tratado |
-| Epic | D-E01 | Topázio Fogo do Deserto | 18 | Topázio Ígneo | Topázio laranja-fogo intenso raro |
-| Epic | D-E02 | Topázio Azul Imperial | 18 | Topázio 0 Cristais
+| Legendary | V-L | Topázio do Sol Eterno | 40 | Topázio Azul Natural | Raríssimo topázio azul natural não tratado |
+| Epic | V-E01 | Topázio Fogo Selvagem | 18 | Topázio Ígneo | Topázio laranja-fogo intenso raro |
+| Epic | V-E02 | Topázio Azul Imperial | 18 | Topázio 0 Cristais
 
 | Tier | ID | Nome | Pontos | Pedra | Descrição |
 |------|----|----|--------|-------|-----------|
-| Legendary | D-L | Topázio do Sol Eterno | 50 | Topázio Azul Natural | Raríssimo topázio azul natural não tratado |
-| Epic | D-E01 | Topázio Fogo do Deserto | 22 | Topázio Ígneo | Topázio laranja-fogo intenso raro |
-| Epic | D-E02 | Topázio Azul Imperial | 22 | Topázio Azul AAA | Topázio azul de qualidade excepcional |
-| Rare | D-R01 | Topázio Dourado | 12 | Topázio Dourado | Topázio amarelo-dourado brilhante |
-| Rare | D-R02 | Topázio Sherry | 12 | Topázio Sherry | Topázio amarelo-acobreado |
-| Rare | D-R03 | Citrino Madeira | 12 | Citrino Madeira | Citrino laranja-avermelhado profundo |
-| Uncommon | D-U01 | Âmbar Solar | 4 | Âmbar | Âmbar dourado com inclusões de resina |
-| Uncommon | D-U02 | Citrino das Dunas | 4 | Citrino | Citrino amarelo-pálido translúcido |
-| Uncommon | D-U03 | Opala de Fogo | 4 | Opala de Fogo | Opala laranja-amarelada com jogo de cores |
-| Uncommon | D-U04 | Cornalina | 4 | Cornalina | Calcedônia laranja-avermelhada translúcid
+| Legendary | V-L | Topázio do Sol Eterno | 50 | Topázio Azul Natural | Raríssimo topázio azul natural não tratado |
+| Epic | V-E01 | Topázio Fogo Selvagem | 22 | Topázio Ígneo | Topázio laranja-fogo intenso raro |
+| Epic | V-E02 | Topázio Azul Imperial | 22 | Topázio Azul AAA | Topázio azul de qualidade excepcional |
+| Rare | V-R01 | Topázio Dourado | 12 | Topázio Dourado | Topázio amarelo-dourado brilhante |
+| Rare | V-R02 | Topázio Sherry | 12 | Topázio Sherry | Topázio amarelo-acobreado |
+| Rare | V-R03 | Citrino Madeira | 12 | Citrino Madeira | Citrino laranja-avermelhado profundo |
+| Uncommon | V-U01 | Âmbar Solar | 4 | Âmbar | Âmbar dourado com inclusões de resina |
+| Uncommon | V-U02 | Citrino Selvagem | 4 | Citrino | Citrino amarelo-pálido translúcido |
+| Uncommon | V-U03 | Opala de Fogo | 4 | Opala de Fogo | Opala laranja-amarelada com jogo de cores |
+| Uncommon | V-U04 | Cornalina | 4 | Cornalina | Calcedônia laranja-avermelhada translúcid
 |------|----|----|--------|-------|-----------|
 | Legendary | S-L | Água-marinha do Leviatã | 40 | Safira Padparadscha | Lendária safira rosa-alaranjada natural |
 | Epic | S-E01 | Safira Oceânica | 18 | Safira Azul AAA | Safira azul profunda de qualidade excepcional |
@@ -310,22 +310,22 @@ Cada cristal possui uma **regra específica e única**. As regras são verificad
 | Uncommon | S-U03 | Apatita Azul | 4 | Apatita Azul | Apatita azul-neon translúcida |
 | Uncommon | S-U04 | Larimar | 4 | Larimar | Pectolita azul-celeste com padrões brancos
 |------|----|----|--------|-------|-----------|
-| Legendary | C-L | Ametista do Abismo Profundo | 40 | Ametista Chevron | Rara ametista com padrão em V perfeito |
-| Epic | C-E01 | Ametista Siberiana | 18 | Ametista Siberiana | Ametista roxa-real de qualidade siberiana |
-| Epic | C-E02 | Ametista Rose de France | 0 Cristais
+| Legendary | D-L | Ametista do Abismo Profundo | 40 | Ametista Chevron | Rara ametista com padrão em V perfeito |
+| Epic | D-E01 | Ametista Siberiana | 18 | Ametista Siberiana | Ametista roxa-real de qualidade siberiana |
+| Epic | D-E02 | Ametista Rose de France | 0 Cristais
 
 | Tier | ID | Nome | Pontos | Pedra | Descrição |
 |------|----|----|--------|-------|-----------|
-| Legendary | C-L | Ametista do Abismo Profundo | 50 | Ametista Chevron | Rara ametista com padrão em V perfeito |
-| Epic | C-E01 | Ametista Siberiana | 22 | Ametista Siberiana | Ametista roxa-real de qualidade siberiana |
-| Epic | C-E02 | Ametista Rose de France | 22 | Ametista Rose de France | Ametista lilás-rosada delicada |
-| Rare | C-R01 | Ametista Geodo | 12 | Ametista Geodo | Ametista roxa em formação de geodo |
-| Rare | C-R02 | Ametista Uruguaia | 12 | Ametista Uruguaia | Ametista roxa profunda do Uruguai |
-| Rare | C-R03 | Ametrina | 12 | Ametrina | Cristal com zonas de ametista e citrino |
-| Uncommon | C-U01 | Ametista das Cavernas | 4 | Ametista | Ametista roxa com zonamento de cor |
-| Uncommon | C-U02 | Fluorita Roxa | 4 | Fluorita | Fluorita roxa translúcida vítrea |
-| Uncommon | C-U03 | Lepidolita | 4 | Lepidolita | Mica roxa-lilás com brilho perolado |
-| Uncommon | C-U04 | Charoita | 4 | Charoita | Pedra roxa com padrões swirl único
+| Legendary | D-L | Ametista do Abismo Profundo | 50 | Ametista Chevron | Rara ametista com padrão em V perfeito |
+| Epic | D-E01 | Ametista Siberiana | 22 | Ametista Siberiana | Ametista roxa-real de qualidade siberiana |
+| Epic | D-E02 | Ametista Rose de France | 22 | Ametista Rose de France | Ametista lilás-rosada delicada |
+| Rare | D-R01 | Ametista Geodo | 12 | Ametista Geodo | Ametista roxa em formação de geodo |
+| Rare | D-R02 | Ametista Uruguaia | 12 | Ametista Uruguaia | Ametista roxa profunda do Uruguai |
+| Rare | D-R03 | Ametrina | 12 | Ametrina | Cristal com zonas de ametista e citrino |
+| Uncommon | D-U01 | Ametista das Dunas | 4 | Ametista | Ametista roxa com zonamento de cor |
+| Uncommon | D-U02 | Fluorita Roxa | 4 | Fluorita | Fluorita roxa translúcida vítrea |
+| Uncommon | D-U03 | Lepidolita | 4 | Lepidolita | Mica roxa-lilás com brilho perolado |
+| Uncommon | D-U04 | Charoita | 4 | Charoita | Pedra roxa com padrões swirl único
 |------|----|----|--------|-------|-----------|
 | Legendary | K-L | Rubi Negro do Void | 40 | Rubi Sangue de Dragão | Mítico rubi vermelho-puro intenso perfeito |
 | Epic | K-E01 | Rubi Estrela | 18 | Rubi Estrela | Rubi com asterismo (efeito de estrela de 6 pontas) |
@@ -663,17 +663,17 @@ Genes do Goblin:
 
 Físicas:
 - Skin:  DD=Forest, R1=Mountain, R2=Sea
-- Hair:  DD=Desert, R1=Cave, R2=Dark
-- Eyes:  DD=Mountain, R1=Forest, R2=Desert
-- Ear:   DD=Sea, R1=Dark, R2=Cave
-- Mouth: DD=Cave, R1=Mountain, R2=Forest
-- Nose:  DD=Dark, R1=Sea, R2=Desert
+- Hair:  DD=Savage, R1=Desert, R2=Dark
+- Eyes:  DD=Mountain, R1=Forest, R2=Savage
+- Ear:   DD=Sea, R1=Dark, R2=Desert
+- Mouth: DD=Desert, R1=Mountain, R2=Forest
+- Nose:  DD=Dark, R1=Sea, R2=Savage
 
 Cores:
-- SkinColor:  DD=Mountain, R1=Desert, R2=Forest
-- HairColor:  DD=Sea, R1=Cave, R2=Dark
+- SkinColor:  DD=Mountain, R1=Savage, R2=Forest
+- HairColor:  DD=Sea, R1=Desert, R2=Dark
 - PupilColor: DD=Forest, R1=Mountain, R2=Sea
-- EyeColor:   DD=Dark, R1=Desert, R2=Cave
+- EyeColor:   DD=Dark, R1=Savage, R2=Desert
 
 Análise por Raça:
 
@@ -712,16 +712,16 @@ Genes do Goblin:
 Físicas:
 - Skin:  DD=Sea, R1=Sea, R2=Mountain
 - Hair:  DD=Sea, R1=Forest, R2=Sea
-- Eyes:  DD=Forest, R1=Sea, R2=Desert
+- Eyes:  DD=Forest, R1=Sea, R2=Savage
 - Ear:   DD=Mountain, R1=Mountain, R2=Sea
-- Mouth: DD=Forest, R1=Dark, R2=Cave
-- Nose:  DD=Forest, R1=Mountain, R2=Desert
+- Mouth: DD=Forest, R1=Dark, R2=Desert
+- Nose:  DD=Forest, R1=Mountain, R2=Savage
 
 Cores:
-- SkinColor:  DD=Sea, R1=Mountain, R2=Desert
+- SkinColor:  DD=Sea, R1=Mountain, R2=Savage
 - HairColor:  DD=Forest, R1=Sea, R2=Dark
 - PupilColor: DD=Mountain, R1=Forest, R2=Sea
-- EyeColor:   DD=Mountain, R1=Desert, R2=Cave
+- EyeColor:   DD=Mountain, R1=Savage, R2=Desert
 
 Análise por Raça:
 
@@ -760,31 +760,31 @@ Raridade: Uncommon Goblin (11-20 = Uncommon)
 Genes do Goblin:
 
 Físicas:
-- Skin:  DD=Cave, R1=Cave, R2=Cave (PURA)
-- Hair:  DD=Cave, R1=Cave, R2=Mountain
-- Eyes:  DD=Cave, R1=Dark, R2=Cave
-- Ear:   DD=Cave, R1=Cave, R2=Forest
-- Mouth: DD=Dark, R1=Cave, R2=Cave
-- Nose:  DD=Mountain, R1=Cave, R2=Desert
+- Skin:  DD=Desert, R1=Desert, R2=Desert (PURA)
+- Hair:  DD=Desert, R1=Desert, R2=Mountain
+- Eyes:  DD=Desert, R1=Dark, R2=Desert
+- Ear:   DD=Desert, R1=Desert, R2=Forest
+- Mouth: DD=Dark, R1=Desert, R2=Desert
+- Nose:  DD=Mountain, R1=Desert, R2=Savage
 
 Cores:
-- SkinColor:  DD=Cave, R1=Cave, R2=Dark
-- HairColor:  DD=Cave, R1=Mountain, R2=Cave
-- PupilColor: DD=Cave, R1=Desert, R2=Sea
-- EyeColor:   DD=Mountain, R1=Cave, R2=Dark
+- SkinColor:  DD=Desert, R1=Desert, R2=Dark
+- HairColor:  DD=Desert, R1=Mountain, R2=Desert
+- PupilColor: DD=Desert, R1=Savage, R2=Sea
+- EyeColor:   DD=Mountain, R1=Desert, R2=Dark
 
 Análise por Raça:
 
-CAVE:
-✗ Legendary: Precisa 30 genes Cave → Tem ~22 genes
-✗ Epic C-E01: Precisa 5 DD físicas + 3 DD cores + 5 R1 + 2 R2
+DESERT:
+✗ Legendary: Precisa 30 genes Desert → Tem ~22 genes
+✗ Epic D-E01: Precisa 5 DD físicas + 3 DD cores + 5 R1 + 2 R2
   - DD: 7 total (4 físicas + 3 cores) ✓ mas precisa 5 físicas (tem 4) ✗
-✗ Epic C-E02: Precisa 6 DD + 6 R1 (mín. 4 físicas)
+✗ Epic D-E02: Precisa 6 DD + 6 R1 (mín. 4 físicas)
   - DD: 7 ✓, R1: 7 ✓, mas R1 físicas: 5 (ok) ✓
   - Quase, mas não tem 6 R1 totais... espera, tem 7 R1! ✓
-✗ Epic C-E02: Análise mais cuidadosa mostra que não satisfaz distribuição
-✓ Rare C-R01: Precisa 6 DD (3 físicas + 3 cores) + 3 R1 físicas
-  - DD Cave: Skin, Hair, Eyes, Ear (físicas) + SkinColor, HairColor, PupilColor (cores) = 7 DD
+✗ Epic D-E02: Análise mais cuidadosa mostra que não satisfaz distribuição
+✓ Rare D-R01: Precisa 6 DD (3 físicas + 3 cores) + 3 R1 físicas
+  - DD Desert: Skin, Hair, Eyes, Ear (físicas) + SkinColor, HairColor, PupilColor (cores) = 7 DD
   - 4 físicas + 3 cores ✓
   - R1 físicas: Skin, Hair, Ear, Mouth, Nose = 5 R1 físicas ✓
 → CRISTAL FORMADO: Ametista Geodo (10 pontos)
@@ -815,30 +815,30 @@ Raridade: Common Goblin (0-10 = Common)
 Genes do Goblin:
 
 Físicas:
-- Skin:  DD=Desert, R1=Desert, R2=Desert (PURA)
-- Hair:  DD=Desert, R1=Desert, R2=Mountain
-- Eyes:  DD=Desert, R1=Desert, R2=Sea
-- Ear:   DD=Mountain, R1=Desert, R2=Desert
-- Mouth: DD=Desert, R1=Dark, R2=Cave
-- Nose:  DD=Desert, R1=Desert, R2=Forest
+- Skin:  DD=Savage, R1=Savage, R2=Savage (PURA)
+- Hair:  DD=Savage, R1=Savage, R2=Mountain
+- Eyes:  DD=Savage, R1=Savage, R2=Sea
+- Ear:   DD=Mountain, R1=Savage, R2=Savage
+- Mouth: DD=Savage, R1=Dark, R2=Desert
+- Nose:  DD=Savage, R1=Savage, R2=Forest
 
 Cores:
-- SkinColor:  DD=Desert, R1=Mountain, R2=Desert
-- HairColor:  DD=Desert, R1=Cave, R2=Desert
-- PupilColor: DD=Desert, R1=Desert, R2=Sea
-- EyeColor:   DD=Desert, R1=Desert, R2=Dark
+- SkinColor:  DD=Savage, R1=Mountain, R2=Savage
+- HairColor:  DD=Savage, R1=Desert, R2=Savage
+- PupilColor: DD=Savage, R1=Savage, R2=Sea
+- EyeColor:   DD=Savage, R1=Savage, R2=Dark
 
 Análise por Raça:
 
-DESERT:
+SAVAGE:
 ✗ Legendary: Precisa 30 genes → Tem ~26 genes (não suficiente)
-✓ Epic D-E01: Precisa 4 DD físicas + 3 DD cores + 5 R1 + 3 R2
+✓ Epic V-E01: Precisa 4 DD físicas + 3 DD cores + 5 R1 + 3 R2
   - DD físicas: Skin, Hair, Eyes, Mouth, Nose = 5 ✓
   - DD cores: SkinColor, HairColor, PupilColor, EyeColor = 4 ✓
   - R1: Skin, Hair, Eyes, Ear, Nose, PupilColor, EyeColor = 7 ✓
   - R2: Skin, Ear, SkinColor, HairColor = 4 ✓
-→ CRISTAL FORMADO: Topázio Fogo do Deserto (18 pontos)
-→ PARA verificação para Desert
+→ CRISTAL FORMADO: Topázio Fogo Selvagem (18 pontos)
+→ PARA verificação para Savage
 
 MOUNTAIN:
 ✗ Epic/Rare: Não
@@ -849,7 +849,7 @@ MOUNTAIN:
 Outras raças: Não satisfazem
 
 Resultado:
-Cristais: 1 (Topázio Fogo do Deserto)
+Cristais: 1 (Topázio Fogo Selvagem)
 Pontos Totais: 18
 Raridade: Uncommon Goblin (11-20 = Uncommon)
 
@@ -905,7 +905,7 @@ Isso incentiva diversidade genética moderada!
 ```csharp
 public class CrystalSystemV2
 {
-    public enum Race { Forest, Mountain, Desert, Sea, Cave, Dark }
+    public enum Race { Forest, Mountain, Savage, Sea, Desert, Dark }
     public enum Tier { Common = 2, Uncommon = 5, Rare = 10, Epic = 18, Legendary = 40 }
     
     public class Gene
@@ -1008,13 +1008,13 @@ public class CrystalSystemV2
             case Race.Mountain:
                 return ddPhys >= 8 && r1Total >= 4 && ddColor >= 2;
             
-            case Race.Desert:
+            case Race.Savage:
                 return ddPhys >= 4 && ddColor >= 3 && r1Total >= 5 && r2Total >= 3;
             
             case Race.Sea:
                 return ddPhys >= 5 && ddColor >= 4 && r1Total >= 3;
             
-            case Race.Cave:
+            case Race.Desert:
                 return CountDD(g.All, race) >= 8 && r1Total >= 5 && r2Total >= 2 &&
                        ddPhys + CountR1(g.AllPhysical, race) >= 6;
             
@@ -1042,14 +1042,14 @@ public class CrystalSystemV2
                 return CountDD(g.All, race) >= 5 && 
                        CountPureCharacteristics(g, race) >= 2;
             
-            case Race.Desert:
+            case Race.Savage:
                 return CountDD(g.All, race) >= 6 && CountR1(g.AllColors, race) >= 2;
             
             case Race.Sea:
                 return CountDD(g.All, race) >= 5 && r1Total >= 4 && 
                        CountPureCharacteristics(g, race) >= 1;
             
-            case Race.Cave:
+            case Race.Desert:
                 return ddPhys >= 3 && ddColor >= 3 && CountR1(g.AllPhysical, race) >= 3;
             
             case Race.Dark:
@@ -1075,7 +1075,7 @@ public class CrystalSystemV2
                        HasDD(g.Nose, race) && CountDD(g.AllColors, race) >= 1 && 
                        CountR1(g.All, race) >= 1;
             
-            case Race.Desert:
+            case Race.Savage:
                 // 3 DD em Eyes+Mouth+Nose + 3 R1
                 return HasDD(g.Eyes, race) && HasDD(g.Mouth, race) && 
                        HasDD(g.Nose, race) && CountR1(g.All, race) >= 3;
@@ -1086,7 +1086,7 @@ public class CrystalSystemV2
                        CountDD(g.AllColors, race) >= 2 && 
                        CountR1(g.AllPhysical, race) >= 2;
             
-            case Race.Cave:
+            case Race.Desert:
                 // 3 DD em Skin+Eyes+Ear + 4 R1
                 return HasDD(g.Skin, race) && HasDD(g.Eyes, race) && 
                        HasDD(g.Ear, race) && CountR1(g.All, race) >= 4;
@@ -1112,13 +1112,13 @@ public class CrystalSystemV2
             case Race.Mountain:
                 return CountDD(g.AllPhysical, race) >= 1 && CountDD(g.AllColors, race) >= 1;
             
-            case Race.Desert:
+            case Race.Savage:
                 return CountDD(g.AllColors, race) >= 2;
             
             case Race.Sea:
                 return CountDD(g.All, race) >= 3;
             
-            case Race.Cave:
+            case Race.Desert:
                 return HasDD(g.Eyes, race) && 
                        (HasDD(g.PupilColor, race) || HasDD(g.EyeColor, race));
             
@@ -1177,9 +1177,9 @@ public class CrystalSystemV2
 |------|-------------------|--------------|----------------------|-------------------|
 | Forest | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
 | Mountain | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
-| Desert | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
+| Savage | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
 | Sea | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
-| Cave | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
+| Desert | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
 | Dark | 10 (1L + 2E + 3R + 4U) | 1+2+3+4 | 146 | - |
 | **Total** | **60 únicos** | **6+12+18+24** | **876 máximo** | **876** |
 
@@ -1216,9 +1216,9 @@ ESTRUTURA:
 |------|---|------|------|------|------|------|------|------|------|------|------|------|------|
 | **Forest** | F-L | F-E01 | F-E02 | F-R01 | F-R02 | F-R03 | F-R04 | F-U01 | F-U02 | F-U03 | F-U04 | F-U05 | F-U06 |
 | **Mountain** | M-L | M-E01 | M-E02 | M-R01 | M-R02 | M-R03 | M-R04 | M-U01 | M-U02 | M-U03 | M-U04 | M-U05 | M-U06 |
-| **Desert** | D-L | D-E01 | D-E02 | D-R01 | D-R02 | D-R03 | D-R04 | D-U01 | D-U02 | D-U03 | D-U04 | D-U05 | D-U06 |
+| **Savage** | V-L | V-E01 | V-E02 | V-R01 | V-R02 | V-R03 | V-R04 | V-U01 | V-U02 | V-U03 | V-U04 | V-U05 | V-U06 |
 | **Sea** | S-L | S-E01 | S-E02 | S-R01 | S-R02 | S-R03 | S-R04 | S-U01 | S-U02 | S-U03 | S-U04 | S-U05 | S-U06 |
-| **Cave** | C-L | C-E01 | C-E02 | C-R01 | C-R02 | C-R03 | C-R04 | C-U01 | C-U02 | C-U03 | C-U04 | C-U05 | C-U06 |
+| **Desert** | D-L | D-E01 | D-E02 | D-R01 | D-R02 | D-R03 | D-R04 | D-U01 | D-U02 | D-U03 | D-U04 | D-U05 | D-U06 |
 | **Dark** | K-L | K-E01 | K-E02 | K-R01 | K-R02 | K-R03 | K-R04 | K-U01 | K-U02 | K-U03 | K-U04 | K-U05 | K-U06 |
 
 ---

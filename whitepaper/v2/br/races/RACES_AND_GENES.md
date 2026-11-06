@@ -73,7 +73,7 @@ Todos os goblins começam com os seguintes atributos:
 
 ---
 
-### 3. Desert (Deserto) - ID: 2
+### 3. Savage (Selvagem) - ID: 2
 **Código Hexadecimal**: `0x32`
 
 #### Bônus da Raça Principal
@@ -92,7 +92,7 @@ Todos os goblins começam com os seguintes atributos:
 | **Mount** (Boca) | Agility +1 | Perception -1 | Soft Joints |
 | **Nose** (Nariz) | Vigor +1 | Charism -1 | Heat Resistance |
 
-**Perfil**: Goblins do deserto são ágeis e inteligentes, com equilíbrio perfeito. Tendem a ser imprudentes e tímidos.
+**Perfil**: Goblins selvagens são ágeis e inteligentes, com equilíbrio perfeito. Tendem a ser imprudentes e tímidos.
 
 ---
 
@@ -119,7 +119,7 @@ Todos os goblins começam com os seguintes atributos:
 
 ---
 
-### 5. Cave (Caverna) - ID: 4
+### 5. Desert (Deserto) - ID: 4
 **Código Hexadecimal**: `0x33`
 
 #### Bônus da Raça Principal
@@ -138,7 +138,7 @@ Todos os goblins começam com os seguintes atributos:
 | **Mount** (Boca) | Vigor +1 | Charism -1 | Iron Stomach |
 | **Nose** (Nariz) | Perception +1 | Vigor -1 | Echo Location |
 
-**Perfil**: Goblins da caverna são fortes e resistentes, com estômago de ferro. Usam sonar em vez de visão, resultando em baixa percepção visual.
+**Perfil**: Goblins do deserto são fortes e resistentes, com estômago de ferro. Usam sonar em vez de visão, resultando em baixa percepção visual.
 
 ---
 
@@ -219,16 +219,16 @@ Goblin da Floresta com:
 - Race: Forest
 - Skin: Forest  
 - Hair: Mountain
-- Ear: Desert
+- Ear: Savage
 - Eye: Forest
-- Mount: Cave
+- Mount: Desert
 - Nose: Sea
 
 Cálculo de Strength:
 Base: 6
 Race (Forest): -1
 Hair (Mountain): +1
-Mouth (Cave): não afeta
+Mouth (Desert): não afeta
 Nose (Sea): não afeta
 = 6 pontos
 ```
@@ -329,13 +329,13 @@ A raça final do goblin é determinada por um sistema de pontuação:
 
 **Exemplo:**
 ```
-Skin: DD=Forest (1.0), R1=Mountain (0.5), R2=Desert (0.25)
+Skin: DD=Forest (1.0), R1=Mountain (0.5), R2=Savage (0.25)
 Hair: DD=Forest (1.0), R1=Forest (0.5), R2=Forest (0.25)
-Eyes: DD=Desert (1.0), R1=Desert (0.5), R2=Mountain (0.25)
+Eyes: DD=Savage (1.0), R1=Savage (0.5), R2=Mountain (0.25)
 
 Pontuação:
 Forest: 1.0 + 1.0 + 0.5 + 0.25 = 2.75
-Desert: 0.25 + 1.0 + 0.5 = 1.75
+Savage: 0.25 + 1.0 + 0.5 = 1.75
 Mountain: 0.5 + 0.25 = 0.75
 
 Raça Final: Forest
@@ -447,9 +447,9 @@ Para todas as características (Skin, Hair, Eyes, Ear, Mouth, Nose):
 |---------|------|----------|
 | 0 | Forest | 0x31 |
 | 1 | Mountain | 0x34 |
-| 2 | Desert | 0x32 |
+| 2 | Savage | 0x32 |
 | 3 | Sea | 0x36 |
-| 4 | Cave | 0x33 |
+| 4 | Desert | 0x33 |
 | 5 | Dark | 0x35 |
 
 ### Cores
@@ -468,11 +468,11 @@ Cada raça possui paletas de cores específicas definidas no `RaceColorService`.
 
 ### Para Força e Resistência (Tank/Miner)
 **Raças Recomendadas:**
-- Race: Cave ou Mountain
-- Skin: Mountain ou Cave
-- Hair: Mountain ou Cave
+- Race: Desert ou Mountain
+- Skin: Mountain ou Desert
+- Hair: Mountain ou Desert
 - Eye: Mountain
-- Mount: Cave
+- Mount: Desert
 
 **Atributos Focados:** Strength, Vigor
 
@@ -480,11 +480,11 @@ Cada raça possui paletas de cores específicas definidas no `RaceColorService`.
 
 ### Para Agilidade e Furtividade (Rogue)
 **Raças Recomendadas:**
-- Race: Desert ou Dark
-- Skin: Cave
-- Ear: Mountain ou Desert
-- Eye: Cave
-- Mount: Desert
+- Race: Savage ou Dark
+- Skin: Desert
+- Ear: Mountain ou Savage
+- Eye: Desert
+- Mount: Savage
 
 **Atributos Focados:** Agility, Perception
 
@@ -495,7 +495,7 @@ Cada raça possui paletas de cores específicas definidas no `RaceColorService`.
 - Race: Forest ou Dark
 - Skin: Dark
 - Hair: Forest ou Dark
-- Ear: Cave ou Dark
+- Ear: Desert ou Dark
 
 **Atributos Focados:** Intelligence, Perception
 
@@ -505,8 +505,8 @@ Cada raça possui paletas de cores específicas definidas no `RaceColorService`.
 **Raças Recomendadas:**
 - Race: Sea
 - Skin: Forest ou Sea
-- Hair: Cave ou Sea
-- Ear: Desert
+- Hair: Desert ou Sea
+- Ear: Savage
 - Eye: Dark
 - Mount: Sea
 
@@ -521,8 +521,8 @@ Cada raça possui paletas de cores específicas definidas no `RaceColorService`.
 - **Gênero Masculino**: 0x6d ('m')
 - **Gênero Feminino**: 0x66 ('f')
 - **Forest**: 0x31 ('1')
-- **Desert**: 0x32 ('2')
-- **Cave**: 0x33 ('3')
+- **Savage**: 0x32 ('2')
+- **Desert**: 0x33 ('3')
 - **Mountain**: 0x34 ('4')
 - **Dark**: 0x35 ('5')
 - **Sea**: 0x36 ('6')
@@ -533,7 +533,7 @@ Cada raça possui paletas de cores específicas definidas no `RaceColorService`.
 Byte Array (31 bytes):
 [0]  = 0x6d (Male)
 [1]  = 0x31 (Skin DD: Forest)
-[2]  = 0x32 (Skin R1: Desert)
+[2]  = 0x32 (Skin R1: Savage)
 [3]  = 0x34 (Skin R2: Mountain)
 [4]  = 0x31 (Hair DD: Forest)
 ... (continua para todas características)
@@ -553,7 +553,7 @@ Este código genético é convertido em BigInteger para armazenamento e pode ser
   - Sistema permanece balanceado com maior diferenciação entre builds
 - **Versão 1.1**: Balanceamento do sistema de atributos
   - Adicionado bônus de Nose (Nariz) para todas as 6 raças
-  - Corrigido Cave Hair: agora possui penalidade em Vigor (-1)
+  - Corrigido Desert Hair: agora possui penalidade em Vigor (-1)
   - Adicionados limites de valores (mín: 1, máx: 15)
   - Documentados valores máximos e mínimos esperados
 - **Versão 1.0**: Documentação inicial baseada no código-fonte do sistema de Goblins Wars

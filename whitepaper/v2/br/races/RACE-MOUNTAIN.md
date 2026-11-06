@@ -12,4 +12,4 @@ Devido à robustez de sua pele, eles são fortes e vigorosos. Apesar de sua natu
 
 ---
 
-[← Anterior: Caverna](RACE-CAVE.md) | [📚 Índice](README.md) | [Próximo: Sombrio →](RACE-DARK.md)
+[← Anterior: Deserto](RACE-DESERT.md) | [📚 Índice](README.md) | [Próximo: Sombrio →](RACE-DARK.md)

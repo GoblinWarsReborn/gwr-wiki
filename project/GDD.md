@@ -80,13 +80,13 @@ Cada Goblin possui 5 partes do corpo que influenciam atributos:
 - **Modificadores:** +INT +AGI -VIG -PER
 - **Arquétipo:** Mago ágil
 
-##### Desert Goblin
+##### Savage Goblin
 - **Tema:** Nômades do deserto
 - **Aparência:** Amarelado, cabelos marrons, pele ressecada, piercings
 - **Modificadores:** +PER +AGI -CHA -FOR
 - **Arquétipo:** Arqueiro ágil
 
-##### Cave Goblin
+##### Desert Goblin
 - **Tema:** Isolados e perturbados das cavernas
 - **Aparência:** Brancos albinos, olhos fundos, aparência animalesca
 - **Modificadores:** +VIG +CHA -AGI -PER
